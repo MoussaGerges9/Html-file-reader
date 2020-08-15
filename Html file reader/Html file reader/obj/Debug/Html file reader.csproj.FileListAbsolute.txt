@@ -1,0 +1,10 @@
+C:\Users\mouss\Desktop\Html file reader\Html file reader\bin\Debug\Html file reader.exe.config
+C:\Users\mouss\Desktop\Html file reader\Html file reader\bin\Debug\Html file reader.exe
+C:\Users\mouss\Desktop\Html file reader\Html file reader\bin\Debug\Html file reader.pdb
+C:\Users\mouss\Desktop\Html file reader\Html file reader\obj\Debug\Html file reader.csprojAssemblyReference.cache
+C:\Users\mouss\Desktop\Html file reader\Html file reader\obj\Debug\Html_file_reader.Form1.resources
+C:\Users\mouss\Desktop\Html file reader\Html file reader\obj\Debug\Html_file_reader.Properties.Resources.resources
+C:\Users\mouss\Desktop\Html file reader\Html file reader\obj\Debug\Html file reader.csproj.GenerateResource.cache
+C:\Users\mouss\Desktop\Html file reader\Html file reader\obj\Debug\Html file reader.csproj.CoreCompileInputs.cache
+C:\Users\mouss\Desktop\Html file reader\Html file reader\obj\Debug\Html file reader.exe
+C:\Users\mouss\Desktop\Html file reader\Html file reader\obj\Debug\Html file reader.pdb
